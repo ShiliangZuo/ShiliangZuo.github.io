@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Posts: [posts](https://shiliangzuo.github.io/year-archive)
-My site: [google site](https://sites.google.com/view/shiliangzuo)
+[Posts](https://shiliangzuo.github.io/year-archive)
+
+
+[Google site](https://sites.google.com/view/shiliangzuo)
